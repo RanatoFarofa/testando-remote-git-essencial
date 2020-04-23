@@ -8,6 +8,7 @@ public class Arquivo2 {
     public static void main(String[] args) {
         DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
         Date date = new Date();
+        // Imprime a data formatada
         System.out.println("Hoje é "+dateFormat.format(date)); 
     }
 }
