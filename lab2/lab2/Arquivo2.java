@@ -14,6 +14,7 @@ public class Arquivo2 {
         int a = 500;
         int b = 1000;
         int c = 700; //Alterado aqui
+        //teste git fetch
         System.out.println("a+b+c="+(a+b+c)); //Alterado aqui
  
     }
