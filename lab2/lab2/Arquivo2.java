@@ -15,6 +15,7 @@ public class Arquivo2 {
         int b = 1000; //Alterado aqui
         // adicionado esse comentário para testar o git fetch.
         //não deu certo.
+        // testando git rebase
         System.out.println("a+b="+(a+b));
      }
 }
