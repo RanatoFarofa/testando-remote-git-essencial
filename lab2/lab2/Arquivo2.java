@@ -11,9 +11,10 @@ public class Arquivo2 {
         //Imprime a data formatada
         System.out.println("Hoje é "+dateFormat.format(date));
 
-        int a = 500; //Alterado aqui
-        int b = 1000; //Alterado aqui
-
-        System.out.println("a+b="+(a+b));
-     }
+        int a = 500;
+        int b = 1000;
+        int c = 700; //Alterado aqui
+        System.out.println("a+b+c="+(a+b+c)); //Alterado aqui
+ 
+    }
 }
