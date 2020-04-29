@@ -14,8 +14,9 @@ public class Arquivo2 {
         int a = 500; //Alterado aqui
         int b = 1000; //Alterado aqui
         // adicionado esse comentário para testar o git fetch.
-        //não deu certo.
+        //não deu certo. depois que fiz o git --dif origin/teste ou master , deu certo.
         // testando git rebase
+        // testes realizados. git rebase/ git fetch/ git pull/ git push.
         System.out.println("a+b="+(a+b));
      }
 }
