@@ -16,6 +16,7 @@ public class Arquivo2 {
         int c = 700; //Alterado aqui
         //teste git fetch
         System.out.println("a+b+c="+(a+b+c)); //Alterado aqui
+        System.out.println("teste git fech");//adicionado para tentar mostrar no repositorio local.
  
     }
 }
